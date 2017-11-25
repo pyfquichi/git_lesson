@@ -6,4 +6,4 @@ def my_square(z):
     """
     return(z ** 2)
 
-print ( my_square(22) )
+print ( my_square(29) )
